@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930426573010",
+    "project_id": "companion-app-adarsh",
+    "storage_bucket": "companion-app-adarsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930426573010:android:d17bd741efb1b647f45d0b",
+        "android_client_info": {
+          "package_name": "com.adarsh.companion_app.companion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930426573010-ka1cbpeov7gttd5ornhbaqro9p5ipjh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adarsh.companion_app.companion_app",
+            "certificate_hash": "969685876b59be49b2a5d626795934606abbc623"
+          }
+        },
+        {
+          "client_id": "930426573010-4o8kioi7s8mo0n65nthj8kd0eulbjvjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMe-0M7VJMURq5WnkTu7LbahFNqSrJO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930426573010-4o8kioi7s8mo0n65nthj8kd0eulbjvjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
